@@ -1,12 +1,12 @@
 public class Practice01MathIterative implements Practice01Math{
-    public int fib(int n)throws Exception{
+    public int fib(int n)throws Exception{ //fib throws Exception
 
         int previousNum = 1;
         int previousPreviousNum = 0;
         int fibSum = 0;
 
         if(n < 0){
-            throw new Exception();
+            throw new Exception(); //throws new Exception
         }
 
         if(n == 0){
@@ -16,10 +16,11 @@ public class Practice01MathIterative implements Practice01Math{
             return 1;
         }
 
+        //Iteration starts at 2 because cases for 0 and 1 are handled
         for(int i = 2; i <= n; i++){
-            fibSum = previousNum + previousPreviousNum;
-            previousPreviousNum = previousNum;
-            previousNum = fibSum;
+            fibSum = previousNum + previousPreviousNum; //fib sum becomes the sum of the previous num and the previous previous num
+            previousPreviousNum = previousNum; //the previous previous num becomes the previous num
+            previousNum = fibSum; //the previous num becomes the current fib sum
         }
 
         return fibSum;
@@ -33,7 +34,7 @@ public class Practice01MathIterative implements Practice01Math{
             throw new Exception();
         }
 
-        for(int i = n; i > 1; i--){
+        for(int i = n; i >= 1; i--){
             count *= i;
         }
 

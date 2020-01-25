@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aba72509-56cd-43af-b7de-609d73a3fd76" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Practice01MathIterative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice01MathRecursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cs-245-practice-01-mbradlee.iws" beforeDir="false" afterPath="$PROJECT_DIR$/cs-245-practice-01-mbradlee.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice01MathIterative.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice01MathIterative.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Practice01MathRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Practice01MathRecursive.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,20 +19,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Practice01MathRecursive.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+            <state relative-caret-position="45">
+              <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Practice01MathIterative.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+            <state relative-caret-position="529">
+              <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -39,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Practice01Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1481">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="-13">
+              <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -69,8 +70,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Practice01MathRecursive.java" />
         <option value="$PROJECT_DIR$/src/Practice01MathIterative.java" />
+        <option value="$PROJECT_DIR$/src/Practice01MathRecursive.java" />
       </list>
     </option>
   </component>
@@ -90,6 +91,11 @@
             <path>
               <item name="cs-245-practice-01-mbradlee" type="b2602c69:ProjectViewProjectNode" />
               <item name="cs-245-practice-01-mbradlee" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="cs-245-practice-01-mbradlee" type="b2602c69:ProjectViewProjectNode" />
+              <item name="cs-245-practice-01-mbradlee" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -142,6 +148,14 @@
       <option name="presentableId" value="Default" />
       <updated>1579908911434</updated>
     </task>
+    <task id="LOCAL-00001" summary="January 24, 2020 &#10;4:10PM&#10;100% Test">
+      <created>1579911024364</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1579911024364</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -153,7 +167,7 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1874106" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" />
@@ -161,7 +175,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32960895" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -176,6 +190,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="January 24, 2020 &#10;4:10PM&#10;100% Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="January 24, 2020 &#10;4:10PM&#10;100% Test" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Practice01Math.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -186,22 +204,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Practice01Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1481">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Practice01MathRecursive.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        <state relative-caret-position="-13">
+          <caret line="35" column="5" lean-forward="true" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Practice01MathIterative.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        <state relative-caret-position="529">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Practice01MathRecursive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="42" selection-start-line="3" selection-start-column="42" selection-end-line="3" selection-end-column="42" />
         </state>
       </provider>
     </entry>
